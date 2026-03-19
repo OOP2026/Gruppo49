@@ -15,7 +15,7 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_TemplateOOP2026&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=OOP2026_TemplateOOP2026)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_TemplateOOP2026&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=OOP2026_TemplateOOP2026)
 
-![Unit Tests](https://github.com/PorfirioTramontana/TemplatePOO2026/actions/workflows/pipeline.yaml/badge.svg)
+![Unit Tests](https://github.com/OOP2026/TemplatePOO2026/actions/workflows/pipeline.yaml/badge.svg)
 
 ## Valutazioni Automatiche di Qualità
 
